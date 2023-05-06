@@ -2,6 +2,7 @@ import IRestaurante from '../../../interfaces/IRestaurante';
 import Prato from '../Prato';
 import estilos from './Restaurante.module.scss';
 
+
 interface RestauranteProps {
   restaurante: IRestaurante
 }
